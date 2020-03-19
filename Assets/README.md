@@ -31,4 +31,4 @@ You can also edit `Packages/manifest.json` directly.
 
 ## Usages
 
-* 
+Read https://firebase.google.com/docs/unity/setup
